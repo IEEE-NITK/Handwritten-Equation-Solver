@@ -20,6 +20,7 @@ ToDo
 
 ## Prerequisites
 ### Following must be installed
+- Tensorflow
 - Keras
 - Nodejs<br>
     Run `npm init` in `Server/digit_reco_server` to install :
@@ -35,6 +36,7 @@ ToDo
 
 The server is built on Nodejs. The Multi-layer perceptron model is built using Keras.
 <br><br>
+
 ### 1. Build the model using Keras
 ```
 cd Server/digit_reco_server/keras_model
