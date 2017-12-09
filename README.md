@@ -23,7 +23,7 @@ ToDo
 - Tensorflow
 - Keras
 - Nodejs<br>
-    Run `npm init` in `Server/digit_reco_server` to install :
+    Run `npm install` in `Server/digit_reco_server` to install :
     - keras-js
     - pngjs
     - multer
